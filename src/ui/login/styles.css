@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    width: 50vw;
+    height: 50vh;
+    background-color: rgb(226, 220, 220);
+    margin: 0 auto;
+}
+
+.items{
+    display: flex;
+    flex-direction: column;
+    
+}
+

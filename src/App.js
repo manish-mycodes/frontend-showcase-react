@@ -1,8 +1,5 @@
+import Login from "./ui/login/login.component"
 export default function App() {
 
-  return (
-    <div>
-      Hi! This is react
-    </div>
-  )
+  return <Login />
 }
