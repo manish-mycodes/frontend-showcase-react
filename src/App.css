@@ -1,2 +1,36 @@
+.container{
+    display: flex;
+    margin: 10% auto;
+    background-color: rgba(0, 0, 0, 0.70);
+    height: 50vh;
+    width: 50vw;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-style: normal;
+    color: #fefefe;
+}
 
+.items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    gap: 10px;
+}
+
+.btnCounter{
+    background-color: rgba(0, 0, 0, 0.80);
+    border-radius: 4px;
+    color: #fefefe;
+    padding: 8px;
+    font-size: medium;
+    font-weight: bold;
+    cursor: pointer;
+    width: auto;
+}
+.action-btns{
+    display: flex;
+    gap: 20px;
+}
 
