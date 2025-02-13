@@ -1,2 +1,5 @@
-
-
+.mainContainer {
+    display: flex;
+    width: 70%;
+    padding: 40px;
+}
